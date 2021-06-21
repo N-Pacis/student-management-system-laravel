@@ -10,10 +10,29 @@ h2{
     text-align: center;
     font-family: 16px;
 }
+h1{
+    font-family: 'Manrope';
+    color: dodgerblue;
+    text-align: center;
+    font-family: 17px;
+    margin-top:10%;
+}
 .table-container{
     width:85%;
     margin: 1% 10%;
 }
 .register-student{
     margin-left: 80%;
+}
+.option-links-div{
+    margin: 2% 40%;
+    display: flex;
+}
+.option-links-div>a{
+   width: 80%;
+   margin-right:2%;
+}
+
+.back-to-main {
+    margin-left: 20%;
 }
